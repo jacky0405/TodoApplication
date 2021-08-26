@@ -1,4 +1,4 @@
-##Todo List Application
+#Todo List Application
 
 **Backend:** 
 SpringBoot + Spring Security + JWT + h2-database
